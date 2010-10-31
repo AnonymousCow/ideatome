@@ -43,3 +43,4 @@ gem "bson_ext", "1.1.1"
 
 # Bundle gem needed for Devise
 gem "devise", "1.1.3"
+gem 'devise-twitter'
